@@ -37,9 +37,9 @@
     </TDDAT>
     <TVDIR>
      <TABNAME>ZAG_VIEW_MAINT2</TABNAME>
-     <AREA>ZAG_FUGR</AREA>
+     <AREA>ZAG_MAINT</AREA>
      <TYPE>1</TYPE>
-     <LISTE>2000</LISTE>
+     <LISTE>2002</LISTE>
      <FLAG>X</FLAG>
     </TVDIR>
    </TOBJ>
